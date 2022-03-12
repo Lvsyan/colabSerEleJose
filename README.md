@@ -1,3 +1,16 @@
+Explicación del ejercicio:
+
+- Decidimos la distribución del ejercicio en header, body y footer. 
+
+- Elena hizo el body, Jose hizo el header y Sergi el footer
+
+- Una vez teniamos las 3 partes hechas intentando dejarlo igual con boostrap juntamos todos en el branch develop
+
+- Una vez lo juntamos en develop, organizamos bien cada codigo para que quede bien la web
+
+- Al tenerlo todo bien organizado hicimos un push a main para dejar el ejercicio listo
+
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
